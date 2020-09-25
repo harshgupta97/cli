@@ -4,7 +4,8 @@
   "description": "Learning to build cli application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Harsh Gupta",
   "license": "ISC",
